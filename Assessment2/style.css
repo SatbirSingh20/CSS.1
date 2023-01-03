@@ -1,4 +1,9 @@
+*{
+    background-image: url(./5k-firewatch-deer-aesthetic-0bt8rqtpbep0bwl9.jpg);
+    
+    
 
+}
 .top{
     display: flex;
     align-items: center;
@@ -10,9 +15,21 @@
     border: 5px solid red;
     background-color: black;
     color: white;
-    height: 100px;
-    width: 200px;
+    text-align: center;
+    height: 50px;
+    width: 300px;
     border-radius: 30px;
-    padding: 10px;
+    padding: 20px;
 
+}
+
+.form{
+    color: tomato;
+    position: absolute;
+    border: 5px solid red;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+    border-style: dashed;
 }
